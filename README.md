@@ -6,7 +6,7 @@ https://knockknock.cs.rit.edu/
 Using the GPU nodes:
 https://wiki.cs.rit.edu/index.php/Using_gpu_nodes
 
-Data files on the GPU nodes:
+Data files on the GPU nodes (Original source: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)):
 
 Images: _/local/datasets/idai720/images/_
 
