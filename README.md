@@ -14,7 +14,7 @@ Pre-trained weights: _/local/datasets/idai720/checkpoint/vgg_face_weights.h5_
 
 ## Assignments
 - [A0 Preparation](A0.md)
-- [A1 Model training on human annotated data](A1.md)
+- [A1 Data Annotated and Model Training](A1.md)
 - [A2 Active Learning](A2.md)
 - [A3 Test Bias/Preference](A3.md)
 - [A4 Mitigate Bias](A4.md)
