@@ -12,6 +12,10 @@ X_test = np.array([pixel for pixel in test['pixels']])/255.0
 y_test = np.array(test["Rating"])
 y_pred = model.predict(X_test)
 
+# Evaluate the prediction performance on the test data with accuracy
+m = Metrics(y_test, y_pred)
+print("Accuracy: %.2f" %m.acc())
+
 # Test Group Fairness
 m = Metrics(y_test, y_pred)
 for A in protected:
