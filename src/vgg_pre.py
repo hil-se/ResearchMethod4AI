@@ -85,6 +85,8 @@ class VGG_Pre:
             # Compile the model so that it optimizes for binary cross-entropy loss with stochastic gradient descent
             self.model = tf.keras.Model(inputs=base_model.input, outputs=base_model_output)
             self.model.compile(loss=tf.keras.losses.BinaryCrossentropy(), metrics=['accuracy'], optimizer='SGD')
+        elif pretrained=="test":
+            pass
         else:
             self.load_model(pretrained)
 
