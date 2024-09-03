@@ -4,8 +4,9 @@ Change your password of CS Account:
 https://knockknock.cs.rit.edu/
 
 Using the GPU nodes:
-https://wiki.cs.rit.edu/index.php/Using_gpu_nodes
-narnia.gccis.rit.edu
+```
+ssh [RIT Username]@narnia.gccis.rit.edu
+```
 
 Data files on the GPU nodes (Original source: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)):
 
