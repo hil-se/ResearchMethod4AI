@@ -14,5 +14,5 @@
  | [TP4 Experimental Design-- data and baselines](TP4.md) | 5 points | 
  | [TP5 Experimental Design-- evaluation](TP5.md) | 5 points | 
  | [TP6 Discussion and Conclusion](TP6.md) | 5 points | 
- | Presentation | 10 points | 
+ | [Presentation](https://docs.google.com/spreadsheets/d/1V_nL3YxqgevpsubZYKrFYXezbM1kMi4OLMY60mxUB0A) | 10 points | 
  | [Final term paper](TPF.md) | 20 points | 
