@@ -7,15 +7,16 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
- - Identify the problem to solve
- - Deliverables: Introduction
-    + Problem statement (What is the problem/hypothesis?)
-    + Motivation (Why is this problem important? What are the benefits of solving it?)
+- Design your experiment
+ - Deliverables: A TP5.pdf file with TP4.pdf + more Experimental Design
+   + Performance metrics to evaluate different treatments
+   + How will you conduct the experiments? (cross-validation, random repeats, how to split training-testing)
+   + Statistical tests to show your approach is better than the baselines
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP5.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | Proper metrics are selected and described | 1 points |
+ | The experimental procedure is described properly | 2 points |
+ | Statistical tests are selected, described, and justified | 2 points |
