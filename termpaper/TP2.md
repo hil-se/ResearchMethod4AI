@@ -18,5 +18,5 @@
  | Deliverable | Score |
  |------------|--------|
  | A TP2.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | All related papers are discussed in the **Background and Related Work** section (most state-of-the-art solutions, most commonly used solutions) | 3 points |
+ | All important related papers are discussed in the **Background and Related Work** section (most state-of-the-art solutions, most commonly used solutions) | 3 points |
  | Limitations are discussed for all existing solutions | 2 points |
