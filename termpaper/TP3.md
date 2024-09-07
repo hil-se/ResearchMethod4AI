@@ -5,7 +5,7 @@
 [Term Paper](README.md) |
 [Instructor](http://zhe-yu.github.io) 
 
-## Introduction
+## Methodology
 
  - Develop your method 
  - Deliverables: A TP3.pdf file with TP2.pdf + Methodology
