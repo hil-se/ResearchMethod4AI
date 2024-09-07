@@ -7,15 +7,20 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
- - Identify the problem to solve
- - Deliverables: Introduction
-    + Problem statement (What is the problem/hypothesis?)
-    + Motivation (Why is this problem important? What are the benefits of solving it?)
+ - Assume your hypothesis is valid
+ - Deliverables: A TP6.pdf file with TP5.pdf + Discussion and Conclusion
+   + Potential impact
+   + Limitations
+   + Threats to validity
+   + Future work
+
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP6.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | Potential impact is described and makes sense | 1 points |
+ | Limitations are discussed | 1 points |
+ | Threats to validity of your experiments are discussed | 2 points |
+ | Proper future work is provided | 1 points |
+ 
