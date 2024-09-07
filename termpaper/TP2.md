@@ -7,15 +7,16 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
- - Identify the problem to solve
- - Deliverables: Introduction
-    + Problem statement (What is the problem/hypothesis?)
-    + Motivation (Why is this problem important? What are the benefits of solving it?)
+ - Literature review
+ - Feasibility (Room to improve? Data available?)
+ - Deliverables: A TP2.pdf file with TP1.pdf + Related Work
+   + How others have tried to solve the problem?
+   + What are the limitations of their work?
+
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP2.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | All related papers are discussed in the **Background and Related Work** section (most state-of-the-art solutions, most commonly used solutions) | 3 points |
+ | Limitations are discussed for all existing solutions | 2 points |
