@@ -5,7 +5,7 @@
 [Term Paper](README.md) |
 [Instructor](http://zhe-yu.github.io) 
 
-## Introduction
+## Experiment
 
 - Design your experiment
  - Deliverables: A TP5.pdf file with TP4.pdf + more Experimental Design
