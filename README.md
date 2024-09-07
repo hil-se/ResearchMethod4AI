@@ -1,7 +1,7 @@
 [<img width=900 src="img/title.png?raw=yes">](README.md)   
 [Syllabus](README.md) |
 [Slides and Assignments](assignments/README.md) |
-[Project](assignments/project.md) |
+[Term Paper](assignments/termpaper.md) |
 [Instructor](http://zhe-yu.github.io) 
 
 ## Course Description
