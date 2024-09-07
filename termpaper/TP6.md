@@ -5,7 +5,7 @@
 [Term Paper](README.md) |
 [Instructor](http://zhe-yu.github.io) 
 
-## Introduction
+## Discussion and Conclusion
 
  - Assume your hypothesis is valid
  - Deliverables: A TP6.pdf file with TP5.pdf + Discussion and Conclusion
