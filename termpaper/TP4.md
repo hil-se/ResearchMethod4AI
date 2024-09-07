@@ -7,15 +7,20 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
- - Identify the problem to solve
- - Deliverables: Introduction
-    + Problem statement (What is the problem/hypothesis?)
-    + Motivation (Why is this problem important? What are the benefits of solving it?)
+ - Design your experiment
+ - Deliverables: A TP4.pdf file with TP3.pdf + Experimental Design
+   + Datasets to use
+   + benchmarking treatments (state-of-the-art solutions from other researchers)
+
+If new data
+ - human-subject?
+ - How do you plan to collect new data?
+ - How do you plan to check inter-rater reliability?
+
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | Datasets to use in the experiments are described in details | 3 points |
+ | Baseline solutions are described in details | 2 points |
