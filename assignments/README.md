@@ -1,4 +1,10 @@
-# IDAI-720 Research Methods for AI
+[<img width=900 src="../img/title.png?raw=yes">](README.md)   
+[Syllabus](../README.md) |
+[Slides and Assignments](README.md) |
+[Term Paper](../termpaper/README.md) |
+[Instructor](http://zhe-yu.github.io) 
+
+# Coding Assignments for IDAI-720 Research Methods for AI
 
 Change your password of CS Account:
 https://knockknock.cs.rit.edu/
