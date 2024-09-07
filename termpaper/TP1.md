@@ -9,7 +9,7 @@
 
  - (Optional) Find a faculty advisor 
  - Identify the problem to solve
- - Deliverables: Introduction
+ - Deliverables: A TP1.pdf file with Title and Introduction
     + Problem statement (What is the problem/hypothesis?)
     + Motivation (Why is this problem important? What are the benefits of solving it?)
 
