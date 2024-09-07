@@ -7,15 +7,15 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
- - Identify the problem to solve
- - Deliverables: Introduction
-    + Problem statement (What is the problem/hypothesis?)
-    + Motivation (Why is this problem important? What are the benefits of solving it?)
+ - Develop your method 
+ - Deliverables: A TP3.pdf file with TP2.pdf + Methodology
+   + How do you plan to solve the problem?
+   + Why should your method solve the problem?
+
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP3.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | The proposed method is described in full details (math equations, pseudo code, graphs) | 3 points |
+ | Justification of why your method should work makes sense | 2 points |
