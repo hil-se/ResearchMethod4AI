@@ -33,7 +33,7 @@
 |      | [Discussion and Conclusion](https://docs.google.com/presentation/d/10Jab3YQPEH1y_wCTjQRHbirkf8AsRtqn_DxIUmruGNA)                             |           |                                   |          |
 |      | [Explainable AI](https://docs.google.com/presentation/d/1Z_RjtgSsoByNgtD7bY6pHzu5tj7GYFb5ZR-WzNidytc)                                        |           | [Assignment 5](assignments/A5.md) |          |
 |      | [Explainable AI](https://docs.google.com/presentation/d/1Z_RjtgSsoByNgtD7bY6pHzu5tj7GYFb5ZR-WzNidytc)                                        |           |                                   |          |
-|      | Student presentation of the term paper                                                                                                       |           |                                   |          |
-|      | Student presentation of the term paper                                                                                                       |           |                                   |          |
-|      | Student presentation of the term paper                                                                                                       |           |                                   |          |
-|      | Student presentation of the term paper                                                                                                       |           |                                   |          |
+|      | Presentation                                                                                                       |           |                                   |          |
+|      | Presentation                                                                                                       |           |                                   |          |
+|      | Presentation                                                                                                       |           |                                   |          |
+|      | Presentation                                                                                                       |           |                                   |          |
