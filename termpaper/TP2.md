@@ -7,7 +7,7 @@
 
 ## Introduction
 
- - Literature review
+ - Literature review (with proper keywords, inclusion criteria)
  - Feasibility (Room to improve? Data available?)
  - Deliverables: A TP2.pdf file with TP1.pdf + Related Work
    + How others have tried to solve the problem?
