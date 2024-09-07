@@ -5,7 +5,7 @@
 [Term Paper](README.md) |
 [Instructor](http://zhe-yu.github.io) 
 
-## Introduction
+## Literature Review
 
  - Literature review (with proper keywords, inclusion criteria)
  - Feasibility (Room to improve? Data available?)
