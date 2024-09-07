@@ -4,7 +4,7 @@
 [Term Paper](../termpaper/README.md) |
 [Instructor](http://zhe-yu.github.io) 
 
-# Coding Assignments for IDAI-720 Research Methods for AI
+# Coding Assignments
 
 Change your password of CS Account:
 https://knockknock.cs.rit.edu/
