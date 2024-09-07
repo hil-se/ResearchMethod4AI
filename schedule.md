@@ -12,7 +12,7 @@
 |      | [Syllabus](README.md)                                                                                                                        |           |                                   |          |
 |      | [Research, Science, and Engineering](https://docs.google.com/presentation/d/1tbPW2XRcJ_D0FbS3BDCk2vG8HXcbf7v0BWF_epRR8_E)                    |           | [Term Paper 1]                    |          |
 |      | [General Machine Learning Process](https://docs.google.com/presentation/d/1HUm9mzVIxVper2thIydd0HuerJ__3mpE9m0jtNg0kig)                      |           | [Assignment 0](assignments/A0.md) |          |
-|      | [Challenges in Human-Centered Machine Learning Process](https://docs.google.com/presentation/d/15gUTtK6opUq3f4tbmv-b1gscQH2vxZ8wUewFeZQoavw) |           | [Assignment 1](assignments/A1.md) |          |
+|      | [Challenges](https://docs.google.com/presentation/d/15gUTtK6opUq3f4tbmv-b1gscQH2vxZ8wUewFeZQoavw) |           | [Assignment 1](assignments/A1.md) |          |
 |      | [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw)                                     |           | [Term Paper 2]                    |          |
 |      | [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw)                                     |           |                                   |          |
 |      | [Active Learning](https://docs.google.com/presentation/d/1CvdS3f3xWImJrWN5zkVmd52BYrckZQTzcXuEo64dzeU)                                       |           | [Assignment 2](assignments/A2.md) |          |
