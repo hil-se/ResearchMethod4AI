@@ -18,9 +18,9 @@
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP6.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | A TP6.pdf file should be found under your _IDAI-720/termpaper/_ directory | 1 points|
  | Potential impact is described and makes sense | 1 points |
  | Limitations are discussed | 1 points |
- | Threats to validity of your experiments are discussed | 2 points |
+ | Threats to validity of your experiments are discussed | 1 points |
  | Proper future work is provided | 1 points |
  
