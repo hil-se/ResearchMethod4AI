@@ -16,6 +16,6 @@
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The problem is feasible and at the right scale | 2 points |
- | The motivation is strong | 3 points |
+ | A TP1.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
+ | The problem is feasible and at the right scale | 1 points |
+ | The motivation is strong | 2 points |
