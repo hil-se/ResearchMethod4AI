@@ -15,4 +15,4 @@
  | [TP5 Experimental Design-- evaluation](TP5.md) | 5 points | 
  | [TP6 Discussion and Conclusion](TP6.md) | 5 points | 
  | [Presentation](Presentation.md) | 10 points | 
- | [Final term paper](TPF.md) | 20 points | 
+ | [Final term paper](TPF.md) | 15 points | 
