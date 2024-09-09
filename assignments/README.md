@@ -10,7 +10,7 @@
 <!--- Change your password of CS Account:
 https://knockknock.cs.rit.edu/ -->
 
-Using the GPU nodes:
+Using the narnia GPU node:
 ```
 ssh [RIT Username]@narnia.gccis.rit.edu
 ```
