@@ -16,3 +16,4 @@
  | [TP6 Discussion and Conclusion](TP6.md) | 5 points | 
  | [Presentation](Presentation.md) | 10 points | 
  | [Final term paper](TPF.md) | 15 points | 
+ | [IRB certificate](IRB.md) | 5 points |
