@@ -21,6 +21,6 @@ If new data
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | Datasets to use in the experiments are described in details | 3 points |
- | Baseline solutions are described in details | 2 points |
+ | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
+ | Datasets to use in the experiments are described in details | 2 points |
+ | Baseline solutions are described in details | 1 points |
