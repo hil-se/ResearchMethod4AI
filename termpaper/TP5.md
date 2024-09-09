@@ -16,7 +16,7 @@
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP5.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
+ | A TP5.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
  | Proper metrics are selected and described | 1 points |
- | The experimental procedure is described properly | 2 points |
- | Statistical tests are selected, described, and justified | 2 points |
+ | The experimental procedure is described properly | 1 points |
+ | Statistical tests are selected, described, and justified | 1 points |
