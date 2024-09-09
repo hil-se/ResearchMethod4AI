@@ -16,6 +16,6 @@
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP3.pdf file should be found under your _IDAI-720/termpaper/_ directory | 5 points|
- | The proposed method is described in full details (math equations, pseudo code, graphs) | 3 points |
- | Justification of why your method should work makes sense | 2 points |
+ | A TP3.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
+ | The proposed method is described in full details (math equations, pseudo code, graphs) | 2 points |
+ | Justification of why your method should work makes sense | 1 points |
