@@ -17,9 +17,9 @@ ssh [RIT Username]@narnia.gccis.rit.edu
 
 Data files on the GPU nodes (Original source: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)):
 
-Images: _/local/datasets/idai720/images/_
+ - Images: _/local/datasets/idai720/images/_
 
-Pre-trained weights: _/local/datasets/idai720/checkpoint/vgg_face_weights.h5_
+ - Pre-trained weights: _/local/datasets/idai720/checkpoint/vgg_face_weights.h5_
 
 ## Assignments
 - [A0 Preparation](A0.md)
