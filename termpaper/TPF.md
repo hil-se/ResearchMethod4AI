@@ -13,7 +13,7 @@
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TPF.pdf file should be found under your _IDAI-720/termpaper/_ directory | 8 points|
+ | A TPF.pdf file should be found under your _IDAI-720/termpaper/_ directory | 3 points|
  | Introduction | 2 points |
  | Background and Related Work | 2 points |
  | Methodology | 2 points |
