@@ -7,8 +7,8 @@
 
 # Coding Assignments
 
-Change your password of CS Account:
-https://knockknock.cs.rit.edu/
+<!--- Change your password of CS Account:
+https://knockknock.cs.rit.edu/ -->
 
 Using the GPU nodes:
 ```
