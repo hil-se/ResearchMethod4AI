@@ -20,15 +20,13 @@ The course uses Github for assignment submission, discussion, questions. Slides,
 
 **Prerequisites**: IDAI-610 and IDAI-700 or equivalent courses are required before taking this course. Also note that GitHub are required for submitting assignments and [Assignment 0](assignments/assignment0.md) provides learning materials to help students with those.
 
-**Grading**: Evaluation will be based on the following distribution: 40% assignments, 60% term paper. A detailed grading policy can be found at the end of the description of each assignment and project.
+**Grading**: Evaluation will be based on the following distribution: 10% quizzes/attendence, 30% assignments, 60% term paper. A detailed grading policy can be found at the end of the description of each assignment and project.
 | Grade | Points      |   | Grade | Points   |
 |-------|-------------|---|-------|----------|
 | A     | 93 or above |   | B-    | 80 – 82  |
 | A-    | 90 – 92     |   | C+    | 77 – 79  |
 | B+    | 87 – 89     |   | C     | 70 – 76  |
 | B     | 83 – 86     |   | F     | Below 70 |
-
-**Time management**: Besides the 2.5 hours/week on lectures, students are expected to spend 1 to 5 hours on assignments (for the first 9 weeks) or on the project (for the rest weeks) every week depending on their proficiency in coding and machine learning.
 
 **Late work policy**: The TA will start grading assignments after the due date. Late work in assignments will not be graded. Exceptions to this policy will be made only in extraordinary circumstances, almost always involving a family or medical emergency---with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. Accommodations for travel (e.g., for interviews) might be possible if requested at least 3 days in advance. 
 
