@@ -12,7 +12,8 @@ Hallmarks of AI are systems that exhibit human-like behaviors, and that they rel
 
 Students completing this course are expected to
 
- - Gain a brief understanding of basic data mining and machine learning techniques.
+ - Conduct independent research.
+ - Understand basic challenges and techniques for human-centered AI.
  - Develop the ability to solve real-world problems using machine learning.
 
 ## Syllabus and Policies
