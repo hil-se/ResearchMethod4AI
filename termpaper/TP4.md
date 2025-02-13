@@ -10,7 +10,7 @@
  - Design your experiment
  - Deliverables: A TP4.pdf file with TP3.pdf + Experimental Design
    + Datasets to use
-   + benchmarking treatments (state-of-the-art solutions from other researchers)
+   + Data preprocessing
 
 If new data
  - human-subject?
@@ -18,9 +18,10 @@ If new data
  - How do you plan to check inter-rater reliability?
 
 
+
 ## Scores
  | Deliverable | Score |
  |------------|--------|
  | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
  | Datasets to use in the experiments are described in details | 2 points |
- | Baseline solutions are described in details | 1 points |
+ | Describe the preprocessing for the data | 1 points |
