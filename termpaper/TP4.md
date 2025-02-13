@@ -22,6 +22,6 @@ If new data
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
+ | A TP4.pdf file should be found under your _IDAI-720/termpaper/_ directory | 1 points|
  | Datasets to use in the experiments are described in details | 2 points |
- | Describe the preprocessing for the data | 1 points |
+ | Describe the preprocessing for the data | 2 points |
