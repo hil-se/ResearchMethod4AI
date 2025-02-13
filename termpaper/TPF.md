@@ -9,7 +9,7 @@
 
  - Revise the final term paper based on the feedback on previous term paper parts and presentation.
  - Deliverables: A TPF.pdf file
- - It needs to be properly formated. E.g. section names, references, graphs, tables, ...
+ - It needs to be properly formated (it is highly recommended to use a latex template). E.g. section names, references, graphs, tables, ...
 
 ## Scores
  | Deliverable | Score |
