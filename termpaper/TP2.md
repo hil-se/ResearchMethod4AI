@@ -12,11 +12,15 @@
  - Deliverables: A TP2.pdf file with TP1.pdf + Related Work
    + How others have tried to solve the problem?
    + What are the limitations of their work?
+   + Support your claims in the introduction.
 
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP2.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
- | All important related papers are discussed in the **Background and Related Work** section (most state-of-the-art solutions, most commonly used solutions) | 2 points |
+ | A TP2.pdf file should be found under your _IDAI-720/termpaper/_ directory | 1 points|
+ | All important related papers are discussed in the **Background and Related Work** section (most state-of-the-art solutions, most commonly used solutions) | 1 points |
  | Limitations are discussed for all existing solutions | 1 points |
+ | All important claims are supported by the related work | 1 points |
+ | References are properly cited | 1 points |
+
