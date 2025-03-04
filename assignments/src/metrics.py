@@ -36,6 +36,6 @@ class Metrics:
         # PR = #(y_pred=1) / #y
         # Write your code below:
 
-        return pr1 - pr0
+        return np.abs(pr1 - pr0)
 
 
