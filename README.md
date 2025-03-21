@@ -21,7 +21,7 @@ The course uses Github for assignment submission, discussion, questions. Slides,
 
 **Prerequisites**: IDAI-610 and IDAI-700 or equivalent courses are required before taking this course. Also note that GitHub are required for submitting assignments and [Assignment 0](assignments/assignment0.md) provides learning materials to help students with those.
 
-**Grading**: Evaluation will be based on the following distribution: 10% quizzes/attendence, 30% assignments, 60% term paper. A detailed grading policy can be found at the end of the description of each assignment and project.
+**Grading**: Evaluation will be based on the following distribution: 10% quizzes/attendance, 30% assignments, 60% term paper. A detailed grading policy can be found at the end of the description of each assignment and project.
 | Grade | Points      |   | Grade | Points   |
 |-------|-------------|---|-------|----------|
 | A     | 93 or above |   | B-    | 80 – 82  |
