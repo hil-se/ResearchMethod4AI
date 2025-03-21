@@ -10,8 +10,8 @@
  |------------|--------|
  | [TP1 Introduction](TP1.md)   | 5 points |
  | [TP2 Background and Related Work](TP2.md) | 5 points | 
- | [TP3 Methodology](TP3.md) | 5 points | 
- | [TP4 Experimental Design-- data and baselines](TP4.md) | 5 points | 
+ | [TP3 Methodology and baselines](TP3.md) | 5 points | 
+ | [TP4 Experimental Design-- data and preprocessing](TP4.md) | 5 points | 
  | [TP5 Experimental Design-- evaluation](TP5.md) | 5 points | 
  | [TP6 Discussion and Conclusion](TP6.md) | 5 points | 
  | [Presentation](Presentation.md) | 10 points | 
