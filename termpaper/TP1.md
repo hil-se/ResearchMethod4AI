@@ -7,9 +7,10 @@
 
 ## Introduction
 
- - (Optional) Find a faculty advisor 
+ - (Optional) Find a faculty advisor
+ - [Learn Latex on overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
  - Identify the problem to solve
- - Deliverables: A TP1.pdf file with Title and Introduction
+ - Deliverables: A TP1.pdf file with Title and Introduction generated using Latex
     + Problem statement (What is the problem/hypothesis?)
     + Motivation (Why is this problem important? What are the benefits of solving it?)
 
