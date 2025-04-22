@@ -12,11 +12,13 @@
    + Performance metrics to evaluate different treatments
    + How will you conduct the experiments? (cross-validation, random repeats, how to split training-testing)
    + Statistical tests to show your approach is better than the baselines
+   + Expected results to support your claims
 
 ## Scores
  | Deliverable | Score |
  |------------|--------|
- | A TP5.pdf file should be found under your _IDAI-720/termpaper/_ directory | 2 points|
+ | A TP5.pdf file should be found under your _IDAI-720/termpaper/_ directory | 1 points|
  | Proper metrics are selected and described | 1 points |
  | The experimental procedure is described properly | 1 points |
  | Statistical tests are selected, described, and justified | 1 points |
+ | Expected results (and how they support your claims/conclusions) are described properly | 1 points |
