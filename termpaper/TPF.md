@@ -74,6 +74,6 @@ conclusions and future work.
  | Soundness: every claim is supported by evidence (references, theories, or experimental results) | 2 points |
  | Novelty: new knowledge will be generated from this research | 2 points |
  | Experimental Design: the expected results should be compelling to support your claim (of your approach better solve the problem) | 4 points |
- | Limitations: limitations of the proposed approach has been properly analyzed | 2 points |
+ | Limitations: limitations of the proposed approach are properly analyzed | 2 points |
  | Presentation: paper is well-structured and easy to read. Should be free of typos and grammar errors. | 2 points |
 
