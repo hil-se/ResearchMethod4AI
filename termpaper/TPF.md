@@ -66,14 +66,30 @@ Potential impacts (what do the results imply?), limitations, threats to validity
 ### Conclusion
 conclusions and future work.
 
-## Scores
- | Criteria | Score |
- |------------|--------|
- | A TPF.pdf file should be found under your _IDAI-720/termpaper/_ directory | 1 points|
- | Motivation: the problem is worth solving | 2 points |
- | Soundness: every claim is supported by evidence (references, theories, or experimental results) | 2 points |
- | Novelty: new knowledge will be generated from this research | 2 points |
- | Experimental Design: the expected results should be compelling to support your claim (of your approach better solve the problem) | 4 points |
- | Limitations: limitations of the proposed approach are properly analyzed | 2 points |
- | Presentation: paper is well-structured and easy to read. Should be free of typos and grammar errors. | 2 points |
+## Rubric
+
+| Task                | Score | Criteria                                                                                                                                                                                                                                     |
+|---------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Motivation          | 2     | Problem is worth solving. Solving the problem will largely benefit the society or advance the knowledge. Demonstrated with references or examples.                                                                                           |
+|                     | 1     | Solving the problem will benefit the society or advance the knowledge to some extend.                                                                                                                                                        |
+|                     | 0     | Not worth solving the problem at all.                                                                                                                                                                                                        |
+| Soundness           | 2     | Every claim is supported by evidence (references, theories, or experimental results)                                                                                                                                                         |
+|                     | 1     | Most claims are supported by evidence (references, theories, or experimental results)                                                                                                                                                        |
+|                     | 0     | Many claims are not supported.                                                                                                                                                                                                               |
+| Novelty             | 2     | Proposed approach is completely novel or largely different from existing approaches in solving the target problem (applying an existing approach to solve a new problem is also considered as novel).                                        |
+|                     | 1     | Proposed approach has incremental improvement over existing approaches in solving the target problem.                                                                                                                                        |
+|                     | 0     | No novel contribution at all.                                                                                                                                                                                                                |
+| Experimental Design | 2     | The expected results are compelling to support your claim (of your approach better solve the problem).                                                                                                                                       |
+|                     | 1     | The expected results only partially support the claim.                                                                                                                                                                                       |
+|                     | 0     | The expected results cannot support the claim.                                                                                                                                                                                               |
+| Feasibility         | 2     | It is promising to achieve the expected results (state-of-the-art approaches have large room to improve, or the proposed approach suits the problem well, or the proposed approach has been shown to perform well in similar problems, etc.) |
+|                     | 1     | It is possible to achieve the expected results. There is also the risk of not performing better than the existing approaches.                                                                                                                |
+|                     | 0     | It is unlikely to achieve the expected results.                                                                                                                                                                                              |
+| Discussion          | 2     | Limitations of the proposed approach are properly analyzed and do not violate the claims.                                                                                                                                                    |
+|                     | 1     | Some limitations are not successfully identified.                                                                                                                                                                                            |
+|                     | 0     | There are critical limitations that are not identified (which may violate the claims).                                                                                                                                                       |
+| Presentation        | 3     | Paper is well-structured and easy to read. Free of typos and grammar errors.                                                                                                                                                                 |
+|                     | 2     | Paper is a bit hard to follow but still understandable. May have typoes or grammar errors.                                                                                                                                                   |
+|                     | 1     | Paper is not well-structured and makes it difficult to understand.                                                                                                                                                                           |
+|                     | 0     | Paper is poorly written and does not follow the provided template at all.                                                                                                                                                                    |
 
