@@ -6,13 +6,24 @@
 [Instructor](http://zhe-yu.github.io) 
 
 ## Presentation
+
+There are 10 points in total for this assignment. The rubric below shows how the score for each task is evaluated.
  
- | Requirement | Description | Score |
- |------------|--------|--------|
- | Structure | problem, related work, methodology, experiments, and discussion | 4 points|
- | Timing | This is an "elevator speech". You only have 5-8 min to explain your project (this is really good practice for your future job interviews!) so stay on message and make every word out of your mouths count | 2 points|
- | Visuals to support the presentation | Plan on max. 5-7 slides (excluding your title slide), and speaking 1 min/slide (slides are a great pacemaker, use them as such!). Visuals should support your talk, not replicate it; put figures and diagrams and plots in slides and use spoken words to explain them | 2 points|
- | Answering questions | Demonstrate mastery of your topic and your chosen method(s) in your answers to questions from the audience | 2 points|
+ | Task                | Score | Criteria                                                                                                                                                            |
+|---------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Structure           | 4     | Has all required contents: problem statement and motivation, related work, methodology, experimental design, expected results, and discussion.                      |
+|                     | 3     | One of the above content is missing.                                                                                                                                |
+|                     | 2     | Two to three of the above contents are missing.                                                                                                                     |
+|                     | 1     | More than three are missing.                                                                                                                                        |
+|                     | 0     | Not presentation.                                                                                                                                                   |
+| Timing              | 2     | Presentation takes 5-10 mins to complete.                                                                                                                           |
+|                     | 1.5   | Presentation takes 10-12 mins to complete.                                                                                                                          |
+|                     | 1     | Presentation takes fewer than 5 mins or longer than 12 mins to complete.                                                                                            |
+| Visualization       | 2     | Slides look clean and are easy to follow. Not too much text, use graphs to support the talk. Slides alone also tells the whole story with all critical information. |
+|                     | 1     | Slides look messy. E.g. too much text, missing critical information, graphs are hard to understand, etc.                                                            |
+| Answering questions | 2     | Demonstrated mastery of your topic and your chosen method(s) in your answers to questions from the audience                                                         |
+|                     | 1     | Can partially answer the questions from the audience.                                                                                                               |
+|                     | 0     | Cannot answer the questions at all.                                                                                                                                 |
 
 
 ## Link
