@@ -68,6 +68,8 @@ conclusions and future work.
 
 ## Rubric
 
+There are 15 points in total for this assignment. The rubric below shows how the score for each task is evaluated.
+
 | Task                | Score | Criteria                                                                                                                                                                                                                                     |
 |---------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Motivation          | 2     | Problem is worth solving. Solving the problem will largely benefit the society or advance the knowledge. Demonstrated with references or examples.                                                                                           |
