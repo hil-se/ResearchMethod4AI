@@ -15,7 +15,7 @@ There are 10 points in total for this assignment. The rubric below shows how the
 |                     | 3     | One of the above content is missing.                                                                                                                                |
 |                     | 2     | Two to three of the above contents are missing.                                                                                                                     |
 |                     | 1     | More than three are missing.                                                                                                                                        |
-|                     | 0     | Not presentation.                                                                                                                                                   |
+|                     | 0     | No presentation.                                                                                                                                                   |
 | Timing              | 2     | Presentation takes 5-10 mins to complete.                                                                                                                           |
 |                     | 1.5   | Presentation takes 10-12 mins to complete.                                                                                                                          |
 |                     | 1     | Presentation takes fewer than 5 mins or longer than 12 mins to complete.                                                                                            |
