@@ -9,9 +9,9 @@
 
 | Date | Lecture                                                                                                                                      | Recording | Assignment                        | Due Date |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------------------|----------|
-| Week 1 Tue     | [Syllabus](README.md)                                                                                                                        |           |                                   |          |
+| Week 1 Tue     | [Syllabus](README.md)                                                                                                                        |           |                        [Assignment 0](assignments/A0.md)           |       Week 2 Thu   |
 |   Week 1 Thu   | [Research, Science, and Engineering](https://docs.google.com/presentation/d/1tbPW2XRcJ_D0FbS3BDCk2vG8HXcbf7v0BWF_epRR8_E)                    |           | [Term Paper 1](termpaper/TP1.md)                    |    Week 3 Mon      |
-|   Week 2 Tue   | [General Machine Learning Process](https://docs.google.com/presentation/d/1HUm9mzVIxVper2thIydd0HuerJ__3mpE9m0jtNg0kig)                      |           | [Assignment 0](assignments/A0.md) |     Week 2 Thu     |
+|   Week 2 Tue   | [General Machine Learning Process](https://docs.google.com/presentation/d/1HUm9mzVIxVper2thIydd0HuerJ__3mpE9m0jtNg0kig)                      |           |  |          |
 |   Week 2 Thu   | [Challenges](https://docs.google.com/presentation/d/15gUTtK6opUq3f4tbmv-b1gscQH2vxZ8wUewFeZQoavw) |           | [Assignment 1](assignments/A1.md) |     Week 4 Mon     |
 |   Week 3 Tue   | [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw)                                     |           | [Term Paper 2](termpaper/TP2.md)                    |          Week 5 Mon |
 |   Week 3 Thu   | [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw)                                     |           |                                   |          |
