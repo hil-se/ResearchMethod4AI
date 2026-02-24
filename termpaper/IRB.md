@@ -8,6 +8,7 @@
 ## IRB Training
 
  - Obtain the certificate following the [instructions](https://www.rit.edu/hsro/training)
+ - ONLY select the course for students conducting experiments with no more than minimal risk.
 
 ## Scores
  | Deliverable | Score |
