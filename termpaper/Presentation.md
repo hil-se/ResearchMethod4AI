@@ -11,8 +11,8 @@ There are 10 points in total for this assignment. The rubric below shows how the
  
  | Task                | Score | Criteria                                                                                                                                                            |
 |---------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Structure           | 4     | Has all required contents: problem statement and motivation, related work, methodology, experimental design, expected results, and discussion.                      |
-|                     | 3     | One of the above content is missing.                                                                                                                                |
+| Structure           | 4     | Covers all required contents: problem statement and motivation, related work, methodology, experimental design, expected results, and discussion.                      |
+|                     | 3     | One of the above contents is missing.                                                                                                                                |
 |                     | 2     | Two to three of the above contents are missing.                                                                                                                     |
 |                     | 1     | More than three are missing.                                                                                                                                        |
 |                     | 0     | No presentation.                                                                                                                                                   |
